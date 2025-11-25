@@ -19,5 +19,3 @@ This repository contains the complete end-to-end implementation of **VSDBabySoC*
 * Custom STA TCL for quick timing path checks
 
 ---
-
-If you want, I can also create a **shorter version**, **ultra-minimal version**, or a **PDF report**.
