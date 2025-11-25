@@ -164,3 +164,8 @@ All screenshots include my Unix terminal username as required.
   **Impact:** Easier timing closure during routing/CTS.
 
 ---
+
+For complete details, refer to the full documentation here:  
+👉 [VSDBabySoC](https://github.com/harishj123/RISC-V_Soc_Tape_out_week_2/blob/main/Week_2/task_2.md)
+
+---
